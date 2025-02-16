@@ -1,6 +1,6 @@
 # Automation of a Business Intelligence (BI) System
 
-This repository contains scripts developed in Google Apps Script (JavaScript) to automate data flows, reporting, and dashboards for digital marketing performance at Clever Advertising.
+This repository contains scripts developed in Google Apps Script (JavaScript) to automate data flows, reporting, and dashboards for digital marketing performance.
 
 ## Overview
 - **Data Flow Automation**: Streamlines the ETL (Extract, Transform, Load) process by pulling data from multiple sources and preparing it for analysis.
