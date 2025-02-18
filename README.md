@@ -13,8 +13,9 @@ This repository contains my project for Industrial Engineering and Management (P
 - **Scalable Structure**: The automation framework supports future extensions and additional data sources.
 
 ## Repository Structure
-- **JoaoPEGI_2324.pdf**: Final project report (describing the BI automation system).
-- **check-up.js**: Example script to validate data and process integrity.
-- **functions.js**: Core functions for data manipulation and transformation.
-- **script_analytics.js**: Scripts focusing on analytics and performance metrics.
-- **updateSheetWithCSV.js**: Automates CSV data import into Google Sheets.
+- **JoaoPEGI_2324.pdf**: Final project report (describing the BI automation system).  
+- **Presentation.pdf**: Project presentation slides.  
+- **check-up.js**: Example script to validate data and process integrity.  
+- **functions.js**: Core functions for data manipulation and transformation.  
+- **script_analytics.js**: Scripts focusing on analytics and performance metrics.  
+- **updateSheetWithCSV.js**: Automates CSV data import into Google Sheets. 
