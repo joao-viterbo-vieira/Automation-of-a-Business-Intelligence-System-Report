@@ -2,6 +2,8 @@
 
 This repository contains my project for Industrial Engineering and Management (PEGI) titled “Automation of a Business Intelligence (BI) System.” It includes the report, presentation, and scripts developed in Google Apps Script (JavaScript) to automate data flows, reporting, and dashboards for digital marketing performance.
 
+**Note:** This project achieved **19/20**.
+
 ## Overview
 - **Data Flow Automation**: Streamlines the ETL (Extract, Transform, Load) process by pulling data from multiple sources and preparing it for analysis.
 - **Report Generation**: Creates and updates Google Sheets reports automatically, eliminating the need for manual data handling.
